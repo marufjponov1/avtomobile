@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+li,a{
+    text-decoration: none;
+    list-style-type: none;
+}
+footer{
+    background-color: rgb(214, 213, 211);
+}
+.get{
+    margin-top: 200px;
+    height: 600px;
+    justify-content: center;
+    display: flex;
+}
+.list{
+    margin-top: 70px;
+    margin-right: 50px;
+}
+.min{
+    color: grey;
+    margin-left: 50px;
+}
